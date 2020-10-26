@@ -1,2 +1,7 @@
-# logic-buliding-practice
-Improve logic building ability in c++ by doing given questions. Each branch contains new question.
+# Question 2
+## Create the follwing hollow rectangle by taking user's input : 
+### * * * *
+### *     *
+### *     *
+### *     *
+### * * * *
