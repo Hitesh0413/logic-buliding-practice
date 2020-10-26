@@ -1,2 +1,6 @@
-# logic-buliding-practice
-Improve logic building ability in c++ by doing given questions. Each branch contains new question.
+# Question No. 3
+## Create the follwing inverted half tringle by taking user's input
+### * * * *
+### * * *
+### * *
+### *
