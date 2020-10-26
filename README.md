@@ -1,2 +1,9 @@
-# logic-buliding-practice
-Improve logic building ability in c++ by doing given questions. Each branch contains new question.
+# Question 1
+## Create the below pattern by taking user's input : 
+
+##
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+
