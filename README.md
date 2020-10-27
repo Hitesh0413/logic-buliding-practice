@@ -1,2 +1,8 @@
-# logic-buliding-practice
-Improve logic building ability in c++ by doing given questions. Each branch contains new question.
+# Question No. 4
+## Create the following half pyramid after 180* rotation by taking user's input:
+
+###     *
+###    **
+###   ***
+###  ****
+### *****
