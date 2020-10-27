@@ -1,2 +1,7 @@
-# logic-buliding-practice
-Improve logic building ability in c++ by doing given questions. Each branch contains new question.
+# Question No. 4
+## Create the following Floyd's triangle by taking user's input:
+
+###  1
+###  2 3
+###  4 5 6 
+###  7 8 9 10
