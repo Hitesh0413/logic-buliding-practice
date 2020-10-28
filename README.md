@@ -1,2 +1,8 @@
-# logic-buliding-practice
-Improve logic building ability in c++ by doing given questions. Each branch contains new question.
+# Question No. 9
+## Create the following rhombus by taking user's input:
+
+###     * * * * *
+###    * * * * *
+###   * * * * *
+###  * * * * *
+### * * * * *
